@@ -1,5 +1,4 @@
-##   Assalamuwalaikum
-## I'm Meskat Hasan ALvy
+##   Assalamu Walaikum  I'm Meskat Hasan ALvy ## 
 An Electronics and Communication Engineering Undergrad studying in Khulna University of Engineering & Technology.
 Passionate about learning and discovering new things|Want to build solutions that blend Hardware + Softwate.
 
